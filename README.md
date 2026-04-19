@@ -1,7 +1,7 @@
 # Ezequiel Chias del Cid 🚀
 
 <p align="center">
-  <img src="banner-ezequiel.png" alt="Banner de Ezequiel Chias del Cid" />
+  <img src="banner-ezequiel-chicas.png" alt="Banner de Ezequiel Chias del Cid" />
 </p>
 
 ## 👋 ¡Hola! Soy Ezequiel Chias del Cid.
